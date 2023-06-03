@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstname": "kashyap",
+      "lastname": "Patel",
+      "gender": "male",
+      "dob": "2001-12-02",
+      "email": "kashyap.p@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "firstname": "Harsh",
+      "lastname": "Patel",
+      "gender": "male",
+      "dob": "2002-12-02T11:37:33Z",
+      "email": "harsh.patel@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Aditya",
+      "lastname": "Patel",
+      "gender": "male",
+      "dob": "2002-12-09T11:37:33Z",
+      "email": "aditya.patel@gmail.com"
+    },
+    {
+      "firstname": "Akash",
+      "lastname": "Trivedi",
+      "gender": "male",
+      "dob": "2002-10-22",
+      "email": "akash.t@gmail.com",
+      "id": 4
+    }
+  ]
+}

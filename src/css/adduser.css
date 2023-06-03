@@ -1,0 +1,19 @@
+h4 {
+    text-align: center;
+}
+
+.adduser {
+    margin: 20px auto;
+    /* border: 1px solid gray; */
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.2);
+}
+
+.form-group {
+    padding: 10px;
+}
+
+.alert-box {
+    margin: 10px auto;
+}
